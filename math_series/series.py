@@ -14,7 +14,7 @@ def fibonacci(n):
     return fibonacci_series
 
 
-print(fibonacci(5))
+# print(fibonacci(5))
 
 ### ------------------ Second One ------------------ 
 
@@ -32,4 +32,4 @@ def lucas(n):
     return lucas_numbers_list
 
     
-print(lucas(5))
+print(lucas(8))
