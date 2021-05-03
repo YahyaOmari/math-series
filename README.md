@@ -1,1 +1,1 @@
-!["Pull Request URL"]()
+[Pull Request URL](https://github.com/YahyaOmari/math-series/compare/lab02?expand=1)
